@@ -1,0 +1,23 @@
+body {
+    background-color: lightblue;   
+ }
+ nav {
+    background-color: yellow;
+ }
+ aside {
+    background-color: green;
+    flex: 2;
+ }
+ footer {
+    background-color: blue;
+ }
+ section {
+    background-color: lightcoral;
+ }
+ main {
+     display: flex;
+ }
+ article {
+     background-color: blue;
+     flex: 1;
+ }
