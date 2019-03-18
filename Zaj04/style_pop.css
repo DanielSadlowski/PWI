@@ -1,0 +1,63 @@
+body {
+    background-color: lightblue;   
+ }
+ nav {
+    background-color: rgb(132, 167, 187);
+    text-justify: initial;
+ }
+ aside {
+    background-color: lightskyblue;
+    flex: 2;
+    text-shadow: 10;
+ }
+ footer {
+    background-color: rgb(52, 133, 199);
+    text-shadow: x y blur-radius color;
+ }
+ section {
+    background-color: rgb(32, 144, 178);
+    font-style: italic;
+ }
+ main {
+     display: flex;
+ }
+ article {
+
+    width:40%;
+    height:80px;
+    background-color:white;
+    padding:15px;
+    font-size:1.2em;
+    border:3px solid #000;
+    
+     background-color: whitesmoke;
+     flex: 1;
+ }
+
+
+
+
+
+ p, body{
+     margin: 0;
+     padding: 0;
+ }
+
+ ul{
+     margin: 0;
+     padding: 0;
+     list-style-type: none;
+ }
+li {
+    display: inline-block;
+    width: 33%; 
+}
+a {
+    color: rgb(254, 255, 254);
+    display: inline-block;
+    width: 100%;
+}
+a:hover{
+    background-color: white;
+    font-size: 15;
+}
