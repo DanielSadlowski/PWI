@@ -1,0 +1,73 @@
+*{
+    margin: 0;
+    padding: 0;
+    font-family: Raleway, Arial, Helvetica, sans-serif;
+    box-sizing: border-box;
+    text-decoration: none;
+}
+
+body{
+    background-color: rgb(255, 206, 71);
+    text-align: center;
+}
+#wrapper{
+    max-width: 1000px;  
+    margin: 0 auto;
+    background-color: white;
+    text-align: center;
+}
+#showcase{
+    max-width: 1000px;  
+    margin: 0 auto;
+    background-color: white;
+    text-align: center;
+}
+nav {
+    margin: 0 auto;
+    max-width: 1000px;  
+    background-color: rgb(255, 174, 0);
+    text-align: center;
+}
+a.menu {
+    display: inline-block;
+    width: 24%;
+    padding: 15px 30px;
+    color: white;
+    text-decoration: none;
+    text-align: center;
+}
+a.menu:hover {
+    background-color: rgb(255, 123, 0);
+    text-align: center;
+}
+
+#container{
+    max-width: 1000px;  
+    margin: 0 auto;
+    background-color: rgb(255, 191, 53);
+    text-align: left;
+}
+
+
+#logowanie {
+    margin: 0 auto;
+    max-width: 1000px;
+    background-color: rgb(255, 136, 0);
+    text-align: center;
+}
+
+footer { 
+    margin: 0 auto;
+    padding: 10px;
+    max-width: 1000px;
+    background-color: rgb(255, 123, 0);
+    text-align: center;
+}
+
+#content {
+    width: 1000px;
+    min-height: 300px;
+    padding: 10px;
+    background-color: rgb(230, 194, 128);
+    float: left;
+}
