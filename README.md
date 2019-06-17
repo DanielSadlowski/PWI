@@ -1,2 +1,2 @@
 # PWI
-76034
+Daniel Sadłowski - UwB - 76034
